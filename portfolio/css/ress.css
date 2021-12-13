@@ -281,3 +281,25 @@ progress {
 [aria-disabled] {
   cursor: default;
 }
+
+.blue{
+  color: blue;
+}
+.pink{
+  color: #ff00cc;
+}
+.orange{
+  color: orangered;
+}
+.mizu{
+  color: aqua;
+}
+.yellow{
+  color: yellow;
+}
+.purple{
+  color: blueviolet;
+}
+.red{
+  color: red;
+}
