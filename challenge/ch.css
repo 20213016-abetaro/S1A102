@@ -17,17 +17,17 @@ article{
     background: #fff;
     position: relative;
 }
-header{
-    padding: 10px;
+header {
     background: #f83;
     color: #fff;
+    padding: 10px;
     position: absolute;
     top: 40px;
     left: 0;
 }
 section{
-    display: inline-block;
-    border:solid 1px #ccc;
+    padding:20px;
+    border:1px solid #ccc;
 }
 img{
     display: block;
@@ -58,11 +58,11 @@ p.btn a{
     padding: 20px;
     background: #f83;
     color: #fff;
-    text-decoration: #fff;
+    text-decoration: none;
     border-radius: 8px;
     font-size: 1.2em;
 }
-.flexContainer{
+.flexContainer {
     display: flex;
     justify-content: space-around;
 }
