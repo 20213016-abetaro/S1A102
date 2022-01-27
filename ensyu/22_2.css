@@ -24,7 +24,7 @@ th,td{
     font-weight: bold;
     text-align: center;
 }
-td{
+td {
     text-align: left;
 }
 .second tr:nth-of-type(odd){
